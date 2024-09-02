@@ -1,0 +1,9 @@
+Boad question analyzer and maker:
+
+	- All board questions of all year of all classes
+	- Mcq and Cq maker
+	- QnA
+	- Catagorize everything 
+	- Chapter map
+	- Regenerate individula question
+	
